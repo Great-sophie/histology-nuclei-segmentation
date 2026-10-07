@@ -1,5 +1,4 @@
 # Raw datasets
-data/raw/
 
 # Model checkpoints
 outputs/*.pt
