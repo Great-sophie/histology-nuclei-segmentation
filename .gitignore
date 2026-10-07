@@ -1,0 +1,25 @@
+# Raw datasets
+data/raw/
+
+# Model checkpoints
+outputs/*.pt
+outputs/*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments
+.env
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary
+*.tmp
+*.log

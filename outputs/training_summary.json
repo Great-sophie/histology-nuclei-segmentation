@@ -1,0 +1,6 @@
+{
+  "best_val_dice": 0.7869538757536146,
+  "epochs": 20,
+  "train_patches": 225,
+  "val_patches": 45
+}

@@ -1,0 +1,11 @@
+{
+  "n_test_patches": 63,
+  "n_test_cases": 7,
+  "patch_mean_dice": 0.8079142882710412,
+  "patch_median_dice": 0.809505820274353,
+  "patch_std_dice": 0.0385914050169468,
+  "patch_mean_iou": 0.6794585008469839,
+  "patch_median_iou": 0.6799746751785278,
+  "case_mean_dice": 0.8079142882710411,
+  "case_mean_iou": 0.6794585008469838
+}
